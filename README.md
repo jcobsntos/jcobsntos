@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 <h2 align="left">Hi 👋! My name is Jacob and I'm a Computer Engineer</h2>
-🔭 I’m currently working on my portfoliot <br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Tech?<br>
+🔭 I’m currently working on my portfolio <br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Tech?<br>
 
 ###
 
