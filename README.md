@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/static/v1?message=Jacob%20Santos&logo=javascript&label=Portfolio&color=22d3ee&logoColor=white&labelColor=0b1220&style=for-the-badge" height="35" alt="portfolio badge" />
 </a>
 
+---
+
 ###
 
 <div align="center">
