@@ -11,9 +11,10 @@
 🌱 I'm currently exploring Advanced Machine Learning and Web Technologies<br>
 💬 Ask me about Tech, Electronics, or Software Development!<br>
 🔗 Check out my Portfolio Website below:<br>
-<a href="https://my-portfolio-jacob-santos.vercel.app" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Jacob%20Santos&label=Portfolio&color=22d3ee&logoColor=white&labelColor=0b1220&style=for-the-badge" height="35" alt="portfolio badge" />
-</a>
+
+  <a href="https://my-portfolio-jacob-santos.vercel.app" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Jacob%20Santos&label=Portfolio&color=22d3ee&logoColor=white&labelColor=0b1220&style=for-the-badge" height="35" alt="portfolio badge" />
+  </a>
 
 ###
 
