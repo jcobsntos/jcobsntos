@@ -9,7 +9,7 @@
 
 🔭 I'm currently working on Full Stack Development & AI/ML projects<br>
 🌱 I'm currently exploring Advanced Machine Learning and Web Technologies<br>
-💼 Check out my portfolio: **[my-portfolio-jacob-santos.vercel.app](https://my-portfolio-jacob-santos.vercel.app)**<br>
+💼 Check out my portfolio: <a href="https://my-portfolio-jacob-santos.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio badge" /></a><br>
 💬 Ask me about Tech, Electronics, or Software Development!<br>
 
 ###
