@@ -13,7 +13,7 @@
 
 🔗 **Portfolio:** 
 <a href="https://my-portfolio-jacob-santos.vercel.app" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Jacob%20Santos&logo=javascript&label=Portfolio&color=22d3ee&logoColor=white&labelColor=0b1220&style=for-the-badge" height="35" alt="portfolio badge" />
+  <img src="https://img.shields.io/static/v1?message=Jacob%20Santos&label=Portfolio&color=22d3ee&logoColor=white&labelColor=0b1220&style=for-the-badge" height="35" alt="portfolio badge" />
 </a>
 
 ###
