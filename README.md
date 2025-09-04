@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/static/v1?message=Jacob%20Santos&label=Portfolio&color=22d3ee&logoColor=white&labelColor=0b1220&style=for-the-badge" height="35" alt="portfolio badge" />
 </a>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jcobsntos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
